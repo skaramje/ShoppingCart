@@ -3,8 +3,8 @@
 Add a restocking feature to a shopping cart
 
 ## Installation:
-`git clone` repository and run 'http-server' in the root directory in a bash terminal.  Required: node.js and npm to run the http-server
-Also require a strapi database running on localhost:1337
+`git clone` repository and run 'http-server' in the root directory in a bash terminal.  Required: node.js and npm to run the http-server.
+Also require a strapi database running on localhost:1337 that contains a collections with the name 'products'
 
 ## Usage:
 For practice and learning React
